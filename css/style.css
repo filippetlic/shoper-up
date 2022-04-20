@@ -1,0 +1,31 @@
+body {
+    font-family:"Rubik Wet Paint";
+    font-size: 16px;
+}
+h1 {
+    font-size: 36px;
+    margin: 5px;
+}
+h2 {
+    font-size: 30px;
+    margin: 4px;
+}
+h3 {
+    font-size: 24px;
+    margin: 3px;
+}
+h4 {
+    font-size: 18px;
+    margin: 3px;
+}
+h5 {
+    font-size: 14px;
+    margin: 3px;
+}
+h6 {
+    font-size: 14px;
+    margin: 3px;
+}
+a {
+    color: red;
+}
